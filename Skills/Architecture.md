@@ -1,34 +1,36 @@
+## Architecture
+
 - Application structure
   - Modularity: 🙋 explained
   - Components: 🙋 explained
-  - Directories: 🖐️ used
+  - Directories: 🙋 explained
   - GRASP: 🎓 known
   - SOLID: 🙋 explained
   - GoF patterns: 🎓 known
   - CQS: 🎓 known
   - Leaking abstractions: 🎓 known
   - Multiparadigm code: 🖐️ used
-  - Contract programming: 🎓 known
+  - Contract programming: 🙋 explained
   - Platform-agnostic: 🎓 known
   - Transport-agnostic: 🎓 known
   - Framework-agnostic: 🎓 known
-  - Code coverage: 👂 heard
-  - Cohesion: 👂 heard
+  - Code coverage: 🎓 known
+  - Cohesion: 🎓 known
   - Coupling: 🎓 known
   - Cyclomatic complexity: 🎓 known
   - Reliability: 🙋 explained
   - Quality: 🙋 explained
-  - Availability: 🖐️ used
-  - Flexibility: 🖐️ used
-  - Law of Demeter (LoD): 🖐️ used
+  - Availability: 🙋 explained
+  - Flexibility: 🙋 explained
+  - Law of Demeter (LoD): 🙋 explained
 - Application architecture
   - Isolation between layer: 🖐️ used
   - Domain-specific language (DSL): 🎓 known
   - System vs applied code: 🎓 known
   - Multilayer approach: 🖐️ used
   - Hexagonal architecture: 🎓 known
-  - Separation of concerns (SoC): 🎓 known
-  - Metaprogramming: 👂 heard
+  - Separation of concerns (SoC): 🙋 explained
+  - Metaprogramming: 🎓 known
   - Inversion of control (IoC): 🖐️ used
   - Dependency injection (DI): 🖐️ used
   - Clean architecture: 🖐️ used
@@ -36,24 +38,24 @@
   - Pub/sub: 🎓 known
   - Message brocker: 🎓 known
   - Agent: 🎓 known
-  - Service locator: 👂 heard
+  - Service locator: 🎓 known
   - Message Queue (MQ): 🖐️ used
   - CQRS: 🎓 known
   - Event sourcing: 👂 heard
   - E-R data modeling: 🖐️ used
-  - Entity-relationship diagram: 🎓 known
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X: 👂 heard
-  - UML: 🎓 known
+  - UML: 🖐️ used
   - Work breakdown structure: 🎓 known
   - Budget estimation: 🎓 known
-  - Distributed systems: 👂 heard
+  - Distributed systems: 🎓 known
   - High-intensive computing: 🎓 known
-  - Load balancing: 🖐️ used
+  - Load balancing: 🙋 explained
   - Gateways: 🎓 known
-  - On-premises: 👂 heard
+  - On-premises: 🎓 known
   - IaaS: 🎓 known
-  - PaaS: 👂 heard
-  - SaaS: 👂 heard
+  - PaaS: 🎓 known
+  - SaaS: 🎓 known
   - FaaS clouds: 🎓 known
   - Serverless: 🎓 known
   - Vendor lock-in: 🎓 known
@@ -65,20 +67,20 @@
   - System design: 🎓 known
   - Process modelling: 🎓 known
   - Data modelling: 🎓 known
-  - Solution components: 👂 heard
-  - Risk assessment: 👂 heard
+  - Solution components: 🎓 known
+  - Risk assessment: 🎓 known
   - Non Functional Requirements (NFR): 🎓 known
   - Clouds: 🎓 known
   - BPMN: 🎓 known
   - Low-code: 🎓 known
   - No-code: 🎓 known
-  - Metric: 👂 heard
+  - Metric: 🎓 known
   - Metric abuse: 👂 heard
   - ACID: 🙋 explained
   - CAP theorem: 👂 heard
   - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
-  - Understanding business needs: 👂 heard
+  - Understanding business needs: 🎓 known
   - Enterprise strategy: 🎓 known
   - Integration with subsystems: 🎓 known
   - Enterprise vision: 🎓 known
@@ -90,9 +92,9 @@
   - Process choreography: 🎓 known
   - Service orchestration: 🎓 known
   - Data warehouse: 🎓 known
-  - Business Intelligence: 👂 heard
+  - Business Intelligence: 🎓 known
   - OLAP: 🎓 known
-  - OLTP: 👂 heard
+  - OLTP: 🎓 known
   - Conways Law: 🎓 known
   - Quality assurance: 🎓 known
-  - Engineering Hygiene: 👂 heard
+  - Engineering Hygiene: 🎓 known

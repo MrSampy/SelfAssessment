@@ -4,15 +4,15 @@
   - Procedural programming: 🙋 explained
   - Imperative programming: 🙋 explained
   - Structured programming: 🙋 explained
-  - Non-structured programming: 🖐️ used
-  - Functional programming: 🖐️ used
+  - Non-structured programming: 🙋 explained
+  - Functional programming: 🙋 explained
   - Prototype-based programming: 🎓 known
-  - Object-oriented programming: 🖐️ used
-  - Object-based programming: 🖐️ used
-  - Generic programming: 🖐️ used
-  - Concurrent computing: 🖐️ used
+  - Object-oriented programming: 🙋 explained
+  - Object-based programming: 🙋 explained
+  - Generic programming: 🙋 explained
+  - Concurrent computing: 🙋 explained
   - Asynchronous programming: 🎓 known
-  - Parallel programming: 🖐️ used
+  - Parallel programming: 🙋 explained
   - Reactive programming: 🎓 known
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming: 👂 heard
@@ -21,48 +21,48 @@
   - Metaprogramming: 👂 heard
   - Actor model: 🙋 explained
   - Lambda calculus: 🖐️ used
-  - Black box: 🖐️ used
+  - Black box: 🙋 explained
   - Information hiding: 🙋 explained
   - Aspect-oriented programming: 👂 heard
-  - Anemic domain model: 🎓 known
-  - Class composition: 🎓 known
+  - Anemic domain model: 🙋 explained
+  - Class composition: 🙋 explained
 - OOP basics
-  - Constructor: 🖐️ used
-  - Operator `new`: 🖐️ used
-  - Static method: 🖐️ used
-  - Method: 🖐️ used
-  - Async method: 🖐️ used
-  - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
-  - Field declarations: 🖐️ used
-  - Inheritance: 🖐️ used
-  - Parent class: 🖐️ used
-  - Polymorphism: 🖐️ used
-  - Abstract class: 🖐️ used
-  - Interface: 🖐️ used
-  - Encapsulation: 🖐️ used
-  - Hidden class: 🖐️ used
-  - Object form: 🖐️ used
-  - Instance: 🖐️ used
-  - Introspection: 🖐️ used
-  - Reflection: 🖐️ used
-  - The diamond problem: 🖐️ used
+  - Constructor: 🙋 explained
+  - Operator `new`: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Hidden class: 🙋 explained
+  - Object form: 🙋 explained
+  - Instance: 🙋 explained
+  - Introspection: 🙋 explained
+  - Reflection: 🙋 explained
+  - The diamond problem: 🙋 explained
 - GRASP
-  - Information expert: 👂 heard
+  - Information expert: 🎓 known
   - Creator: 🎓 known
   - Controller: 🎓 known
   - Indirection: 🎓 known
-  - Low coupling: 👂 heard
+  - Low coupling: 🎓 known
   - High cohesion: 🎓 known
-  - Protected variations: 👂 heard
-  - Pure fabrication: 👂 heard
+  - Protected variations: 🎓 known
+  - Pure fabrication: 🎓 known
 - SOLID
-  - Single-responsibility principle (SRP): 🖐️ used
-  - Open–closed principle (OCP): 🖐️ used
-  - Liskov substitution principle (LSP): 🖐️ used
-  - Interface segregation principle (ISP): 🖐️ used
-  - Dependency inversion principle (DIP): 🖐️ used
+  - Single-responsibility principle (SRP): 🙋 explained
+  - Open–closed principle (OCP): 🙋 explained
+  - Liskov substitution principle (LSP): 🙋 explained
+  - Interface segregation principle (ISP): 🙋 explained
+  - Dependency inversion principle (DIP): 🙋 explained
 - Patterns
   - Singleton: 🙋 explained
   - Factory Method: 🙋 explained
@@ -70,22 +70,22 @@
   - Adapter: 🙋 explained
   - Observer: 🎓 known
   - Strategy: 🎓 known
-  - Facade: 🖐️ used
+  - Facade: 🙋 explained
   - Proxy: 🎓 known
   - Chain of Responsibility: 🎓 known
   - Command: 🎓 known
-  - Iterator: 👂 heard
-  - State: 👂 heard
-  - Bridge: 🖐️ used
-  - Builder: 🖐️ used
-  - Prototype: 🎓 known
+  - Iterator: 🎓 known
+  - State: 🎓 known
+  - Bridge: 🙋 explained
+  - Builder: 🙋 explained
+  - Prototype: 🙋 explained
   - Composite: 🎓 known
-  - Decorator: 🎓 known
+  - Decorator: 🙋 explained
   - Flyweight: 🎓 known
-  - Mediator: 👂 heard
-  - Memento: 🎓 known
+  - Mediator: 🎓 known
+  - Memento: 🙋 explained
   - Template Method: 🎓 known
   - Visitor: 🎓 known
-  - Reactor: 👂 heard
-  - Active object: 👂 heard
-  - Delegation: 👂 heard
+  - Reactor: 🎓 known
+  - Active object: 🎓 known
+  - Delegation: 🎓 known
