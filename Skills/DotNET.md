@@ -3,10 +3,10 @@
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET: 🎓 known
   - Stateful and stateless services: 🎓 known
-  - Asynchronous and synchronous programming: 🎓 known
-  - Task-based asynchronous pattern: 🎓 known
+  - Asynchronous and synchronous programming: 🖐️ used
+  - Task-based asynchronous pattern: 🖐️ used
   - Garbage collection in .NET: 🎓 known
-  - .NET runtime versions and support: 🎓 known
+  - .NET runtime versions and support: 🖐️ used
   - I/O-bound, CPU-bound tasks: 🎓 known
   - Real-time applications with SignalR: 🎓 known
 - Modularity and Dependencies
@@ -14,20 +14,20 @@
   - NuGet package management: 🖐️ used
   - Dependency management in .NET: 🖐️ used
   - Dependency Injection in .NET: 🖐️ used
-  - Inversion of Control (IoC): 🎓 known
-  - IoC containers in .NET: 🎓 known
-  - Middleware and pipeline configuration: 🎓 known
+  - Inversion of Control (IoC): 🖐️ used
+  - IoC containers in .NET: 🖐️ used
+  - Middleware and pipeline configuration: 🖐️ used
   - Modular applications: 🎓 known
 - Environment and Tools
   - Command line interface (CLI) tools: 🖐️ used
   - .NET CLI: 🖐️ used
   - Windows Services and Linux Daemons: 🎓 known
   - Hosting and Deployment models: 🎓 known
-  - IIS and Kestrel web server: 🎓 known
-  - Environment variables and configuration: 🎓 known
-  - File system I/O operations: 🖐️ used
+  - IIS and Kestrel web server: 🖐️ used
+  - Environment variables and configuration: 🖐️ used
+  - File system I/O operations: 🙋 explained
   - Multithreading with Task Parallel Library (TPL): 🖐️ used
-  - Performance monitoring and diagnostics: 🎓 known
+  - Performance monitoring and diagnostics: 🖐️ used
 - APIs and Framework Features
   - LINQ: 🙋 explained
   - SignalR for real-time web functionality: 🎓 known
@@ -35,40 +35,40 @@
   - Security features (authentication, authorization): 🖐️ used
   - Cryptography and secure data handling: 🖐️ used
   - Memory and resource management: 🎓 known
-  - Globalization and localization: 🎓 known
+  - Globalization and localization: 🖐️ used
   - ASP.NET Web API: 🖐️ used
   - ASP.NET MVC: 🖐️ used
   - WPF (Windows Presentation Foundation): 🖐️ used
-  - WinForms: 🎓 known
+  - WinForms: 🖐️ used
 - Network and Protocols
-  - HTTP/HTTPS support: 🎓 known
+  - HTTP/HTTPS support: 🖐️ used
   - WebSockets for real-time communication: 🎓 known
   - TCP/UDP networking: 🎓 known
   - SSL/TLS for secure connections: 🎓 known
   - Efficient network communication with `gRPC`: 👂 heard
   - HTTP/2 and HTTP/3 support: 👂 heard
   - Network security (DDoS, XSS, CSRF prevention): 👂 heard
-  - Serialization and deserialization (JSON, XML): 🎓 known
+  - Serialization and deserialization (JSON, XML): 🖐️ used
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit: 🖐️ used
-  - Integration testing: 🖐️ used
+  - Unit testing with frameworks like xUnit, NUnit: 🔬 researched
+  - Integration testing: 🙋 explained
   - Logging and tracing: 🖐️ used
   - Application monitoring and telemetry: 👂 heard
-  - Debugging tools and strategies: 🖐️ used
+  - Debugging tools and strategies: 🙋 explained
   - Performance profiling and analysis: 🎓 known
-  - Mocking frameworks (Moq, FakeItEasy): 🎓 known
+  - Mocking frameworks (Moq, FakeItEasy): 🚀 constructed
 - Data Access and ORM
   - Entity Framework Core: 📢 talked
   - Dapper: 🖐️ used
   - ADO.NET for database access: 🎓 known
-  - Data modeling and migration: 🎓 known
-  - Repository and Unit of Work patterns: 🖐️ used
-  - CRUD operations: 🖐️ used
+  - Data modeling and migration: 🖐️ used
+  - Repository and Unit of Work patterns: 🙋 explained
+  - CRUD operations: 🙋 explained
 - Error Handling and Debugging
   - Exception handling in .NET: 🖐️ used
   - Custom error classes: 🖐️ used
-  - Debugging and diagnostic tools: 🖐️ used
-  - Profiling and performance analysis: 🖐️ used
+  - Debugging and diagnostic tools: 🙋 explained
+  - Profiling and performance analysis: 🙋 explained
   - Memory leak detection: 🎓 known
 - Integration and Extensibility
   - Interoperability with native libraries: 🎓 known
@@ -84,10 +84,10 @@
   - Serverless computing: 🎓 known
 - C# Development
   - C# syntax and language fundamentals: 🙋 explained
-  - Advanced C# features (LINQ, async/await, delegates, events): 🖐️ used
-  - Reflection and dynamic programming: 🖐️ used
-  - Data types and collections: 🖐️ used
-  - Generics and extension methods: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 🙋 explained
+  - Reflection and dynamic programming:: 🖐️ used
+  - Data types and collections: 🙋 explained
+  - Generics and extension methods: 🙋 explained
   - Attributes and annotations: 🖐️ used
   - Interoperability with other .NET languages: 🖐️ used
 - `F#` Development
@@ -123,7 +123,7 @@
   - Enhancing existing .NET applications with `C++/CLI`: 👂 heard
 - Mobile development
   - .NET MAUI / Xamarin: 👂 heard
-  - Interoperability between managed code and iOS/Android API: 👂 heard
+  - Interoperability between managed code and iOS/Android API:: 👂 heard
 - Game development
   - Unity: 👂 heard
 - Web development

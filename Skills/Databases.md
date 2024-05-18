@@ -22,53 +22,53 @@
   - Data manipulation language (DML): 🙋 explained
   - Data query language (DQL): 🙋 explained
 - Relational
-  - Entity-Relationship Diagram: 🖐️ used
-  - Normal forms: 🖐️ used
-  - Indexing: 🖐️ used
-  - Primary keys: 🖐️ used
-  - Foreign keys: 🎓 known
-  - Transactions: 🎓 known
-  - Views: 🎓 known
-  - Subqueries: 🎓 known
-  - Stored procedures: 🎓 known
-  - SQL functions: 🎓 known
+  - Entity-Relationship Diagram: 🙋 explained
+  - Normal forms: 🙋 explained
+  - Indexing: 🙋 explained
+  - Primary keys: 🙋 explained
+  - Foreign keys: 🙋 explained
+  - Transactions: 🙋 explained
+  - Views: 🙋 explained
+  - Subqueries: 🙋 explained
+  - Stored procedures: 🙋 explained
+  - SQL functions: 🙋 explained
   - Materialized views: 🎓 known
   - Replications: 🎓 known
   - Virtualization: 🎓 known
 - SQL
-  - `SELECT`: 🖐️ used
-  - `INSERT`: 🖐️ used
-  - `UPDATE`: 🖐️ used
-  - `DELETE`: 🖐️ used
-  - `LIMIT`: 🖐️ used
-  - `OFFSET`: 🖐️ used
-  - `ORDER BY`: 🖐️ used
-  - `GROUP BY`: 🖐️ used
-  - `HAVING`: 🖐️ used
-  - `EXISTS`: 🖐️ used
-  - `JOIN`: 🖐️ used
-  - `INNER JOIN`: 🖐️ used
-  - `LEFT JOIN`: 🖐️ used
-  - `RIGHT JOIN`: 🖐️ used
-  - `UNION`: 🎓 known
-  - `DISTINCT`: 🎓 known
-  - `WHERE`: 🎓 known
-  - `LIKE`: 🎓 known
-  - `IN`: 🎓 known
-  - `BETWEEN`: 🎓 known
-  - `CREATE TABLE`: 🎓 known
-  - `ALTER TABLE`: 🎓 known
-  - `DROP TABLE`: 🎓 known
-  - `PRIMARY KEY`: 🎓 known
-  - `FOREIGN KEY`: 🎓 known
-  - `CHECK`: 🎓 known
-  - `DEFAULT`: 🎓 known
-  - `INDEX`: 🎓 knownd
-  - `UNIQUE`: 🎓 known
-  - `GRANT`: 🎓 known
-  - `REVOKE`: 🎓 known
-  - `DENY`: 🎓 known
-  - `EXPLAIN`: 🎓 known
+  - `SELECT`: 🙋 explained
+  - `INSERT`: 🙋 explained
+  - `UPDATE`: 🙋 explained
+  - `DELETE`: 🙋 explained
+  - `LIMIT`: 🙋 explained
+  - `OFFSET`: 🙋 explained
+  - `ORDER BY`: 🙋 explained
+  - `GROUP BY`: 🙋 explained
+  - `HAVING`: 🙋 explained
+  - `EXISTS`: 🙋 explained
+  - `JOIN`: 🙋 explained
+  - `INNER JOIN`: 🙋 explained
+  - `LEFT JOIN`: 🙋 explained
+  - `RIGHT JOIN`: 🙋 explained
+  - `UNION`: 🙋 explained
+  - `DISTINCT`: 🙋 explained
+  - `WHERE`: 🙋 explained
+  - `LIKE`: 🙋 explained
+  - `IN`: 🙋 explained
+  - `BETWEEN`: 🙋 explained
+  - `CREATE TABLE`: 🙋 explained
+  - `ALTER TABLE`: 🙋 explained
+  - `DROP TABLE`: 🙋 explained
+  - `PRIMARY KEY`: 🙋 explained
+  - `FOREIGN KEY`: 🙋 explained
+  - `CHECK`: 🙋 explained
+  - `DEFAULT`: 🙋 explained
+  - `INDEX`: 🙋 explained
+  - `UNIQUE`: 🙋 explained
+  - `GRANT`: 🙋 explained
+  - `REVOKE`: 🙋 explained
+  - `DENY`: 🙋 explained
+  - `EXPLAIN`: 🙋 explained
 - Engines
   - PostgreSQL: 🖐️ used
   - Oracle: 🙋 explained

@@ -5,23 +5,23 @@
   - Modeling: 🙋 explained
   - Subject domain: 🙋 explained
   - Algorithm: 🙋 explained
-  - Syntax: 🖐️ used
-  - Semantics: 🖐️ used
-  - Abstraction: 🖐️ used
-  - Paradigm: 🖐️ used
-  - Program: 🖐️ used
-  - Programming paradigm: 🖐️ used
-  - Programming language: 🖐️ used
-  - Contract: 🖐️ used
-  - Module: 🖐️ used
-  - Library: 🖐️ used
-  - Package: 🖐️ used
-  - Component: 🖐️ used
-  - Framework: 🖐️ used
-  - Platform: 🖐️ used
-  - Source code: 🖐️ used
-  - Object code: 🖐️ used
-  - Machine code: 🖐️ used
+  - Syntax: 🙋 explained
+  - Semantics: 🙋 explained
+  - Abstraction: 🙋 explained
+  - Paradigm: 🙋 explained
+  - Program: 🙋 explained
+  - Programming paradigm: 🙋 explained
+  - Programming language: 🙋 explained
+  - Contract: 🙋 explained
+  - Module: 🙋 explained
+  - Library: 🙋 explained
+  - Package: 🙋 explained
+  - Component: 🙋 explained
+  - Framework: 🙋 explained
+  - Platform: 🙋 explained
+  - Source code: 🙋 explained
+  - Object code: 🙋 explained
+  - Machine code: 🙋 explained
   - Microcode: 👂 heard
   - Software engineering: 🙋 explained
   - Decomposition: 🙋 explained
@@ -38,20 +38,20 @@
   - Constant: 🙋 explained
   - Scalar: 🙋 explained
   - Literal: 🙋 explained
-  - Expression: 🖐️ used
-  - Heap: 🖐️ used
-  - Function: 🖐️ used
-  - Procedure: 🖐️ used
-  - Method: 🖐️ used
+  - Expression: 🙋 explained
+  - Heap: 🙋 explained
+  - Function: 🙋 explained
+  - Procedure: 🙋 explained
+  - Method: 🙋 explained
   - Class: 🙋 explained
   - Prototype: 🙋 explained
   - Event: 🙋 explained
-  - Type: 🖐️ used
-  - Flag: 🖐️ used
+  - Type: 🙋 explained
+  - Flag: 🙋 explained
   - Lexical scope: 🙋 explained
   - Code block: 🙋 explained
-  - Conditions: 🖐️ used
-  - Loops: 🖐️ used
+  - Conditions: 🙋 explained
+  - Loops: 🙋 explained
   - Assignment: 🙋 explained
   - Regular expression: 🙋 explained
   - Interface: 🙋 explained
@@ -91,10 +91,10 @@
   - Partial application: 🎓 known
   - Currying: 🎓 known
   - Higher order: 🙋 explained
-  - Recursion: 🖐️ used
+  - Recursion: 🙋 explained
   - Tail call optimisation: 🙋 explained
   - Callback: 🙋 explained
-  - Listener: 🖐️ used
+  - Listener: 🙋 explained
   - Composition: 🙋 explained
   - Pipe: 🎓 known
   - Memoize: 🎓 known
@@ -118,9 +118,9 @@
   - Doubly list: 🚀 constructed
   - Unrolled list: 🚀 constructed
   - Circular list: 🚀 constructed
-  - Queue: 🙋 explained
-  - Stack: 🙋 explained
-  - Deque: 🙋 explained
+  - Queue: 🚀 constructed
+  - Stack: 🚀 constructed
+  - Deque: 🚀 constructed
   - Tree: 🙋 explained
   - Graph: 🙋 explained
   - Iterator: 🙋 explained
@@ -136,7 +136,7 @@
   - CDN: 👂 heard
   - CORS: 👂 heard
   - IPv4: 🙋 explained
-  - IPv6: 🖐️ used
+  - IPv6: 🙋 explained
   - NAT: 🙋 explained
   - URL: 🙋 explained
   - URN: 🎓 known
@@ -218,22 +218,22 @@
   - Unix: 🙋 explained
   - BSD: 🎓 known
   - MacOS: 🙋 explained
-  - Windows: 🖐️ used
+  - Windows: 🙋 explained
   - Real-time OS: 🎓 known
   - Embedded OS: 🎓 known
 - Standards
   - ASCII: 🙋 explained
   - Escape sequence: 🙋 explained
-  - RFC: 👂 heard
-  - IETF: 👂 heard
-  - IANA: 👂 heard
-  - IEEE: 👂 heard
+  - RFC: 🎓 known
+  - IETF: 🎓 known
+  - IANA: 🎓 known
+  - IEEE: 🎓 known
   - Base64: 🙋 explained
-  - ECMA: 👂 heard
-  - ICANN: 👂 heard
-  - ISO: 👂 heard
-  - MIME: 👂 heard
-  - OWASP: 👂 heard
-  - UTF-8: 👂 heard
-  - W3C: 👂 heard
-  - ODMG: 👂 heard
+  - ECMA: 🎓 known
+  - ICANN: 🎓 known
+  - ISO: 🎓 known
+  - MIME: 🎓 known
+  - OWASP: 🎓 known
+  - UTF-8: 🎓 known
+  - W3C: 🎓 known
+  - ODMG: 🎓 known

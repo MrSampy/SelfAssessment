@@ -4,8 +4,8 @@
   - Event loop: 🚀 constructed
   - `try..catch`: 🖐️ used
   - Non-blocking: 👂 heard
-  - Async I/O: 🖐️ used
-  - Thread pool: 🖐️ used
+  - Async I/O: 🙋 explained
+  - Thread pool: 🙋 explained
   - Pattern Reactor: 👂 heard
   - CAS operations: 👂 heard
   - epoll: 👂 heard
@@ -17,18 +17,18 @@
   - Dead locks: 🙋 explained
   - Live locks: 🎓 known
   - Concurrent programming: 🙋 explained
-  - Parallel programming: 🖐️ used
-  - Actor Model: 🖐️ used
-  - Thread: 🖐️ used
-  - Process: 🎓 known
+  - Parallel programming: 🙋 explained
+  - Actor Model: 🙋 explained
+  - Thread: 🙋 explained
+  - Process: 🙋 explained
 - Async contracts
   - Callbacks: 🙋 explained
   - Callback-last-error-first: 🙋 explained
-  - Thenable: 👂 heard
+  - Thenable: 🎓 known
   - Promise: 🎓 known
   - Async/await: 🖐️ used
   - Future: 🎓 known
-  - Deferred: 👂 heard
+  - Deferred: 🎓 known
   - Sync generator: 🎓 known
   - Async Generator: 👂 heard
   - Async Iterator: 👂 heard
@@ -36,10 +36,10 @@
   - Coroutine: 🖐️ used
   - Goroutine: 🖐️ used
   - Signal: 🎓 known
-  - Stream: 👂 heard
-  - Chain of responsibility: 🎓 known
+  - Stream: 🎓 known
+  - Chain of responsibility: 🖐️ used
   - Middleware: 🖐️ used
-  - Locks: 🖐️ used
+  - Locks: 🙋 explained
 - Async adapters and utils
   - callbackify: 👂 heard
   - promisify: 👂 heard
@@ -52,12 +52,12 @@
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 👂 heard
-  - Async Pool: 👂 heard
-  - Async Queue: 👂 heard
-  - Async Collector: 👂 heard
-  - Semaphore: 🎓 known
-  - Mutex: 🎓 known
-  - Spin Lock: 🎓 known
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
+  - Async Collector: 🎓 known
+  - Semaphore: 🙋 explained
+  - Mutex: 🙋 explained
+  - Spin Lock: 🙋 explained
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - `setImmediate`: 👂 heard
@@ -68,8 +68,8 @@
   - Promise double resolve: 👂 heard
   - Atomics: 🙋 explained
   - High resolution clock: 👂 heard
-  - Callback hell: 🖐️ used
-  - Promise hell: 🖐️ used
+  - Callback hell: 🙋 explained
+  - Promise hell: 🙋 explained
   - ref() and unref(): 👂 heard
   - Error handling in async code: 👂 heard
   - Better stack traces with return await: 👂 heard
