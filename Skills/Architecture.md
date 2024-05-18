@@ -1,3 +1,5 @@
+## Architecture
+
 - Application structure
   - Modularity: 🙋 explained
   - Components: 🙋 explained
